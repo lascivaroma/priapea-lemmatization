@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -671,7 +670,7 @@
                     <w xml:id="t284" n="284" lemma="sum1"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" >sum</w>
                     <w xml:id="t285" n="285" lemma="ligneus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >ligneus</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" >ligneus</w>
                     <w xml:id="t286" n="286" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t287" n="287" lemma="ut1"
@@ -689,7 +688,7 @@
                     <w xml:id="t293" n="293" lemma="ligneus"
                        pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Pos" >lignea</w>
                     <w xml:id="t294" n="294" lemma="ligneus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >ligneus</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" >ligneus</w>
                     <w xml:id="t295" n="295" lemma="que"
                        pos="CONcoo" msd="MORPH=empty" >-que</w>
                     <w xml:id="t296" n="296" lemma="penis"
@@ -4031,7 +4030,7 @@
                     <w xml:id="t1963" n="1964" lemma="sum1"
                        pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1" >sim</w>
                     <w xml:id="t1964" n="1965" lemma="ligneus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >ligneus</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" >ligneus</w>
                     <w xml:id="t1965" n="1966" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1966" n="1967" lemma="asto"
@@ -6000,8 +5999,8 @@
                        pos="PUNC" msd="MORPH=empty" >.</w>
                 </ab>
                 <ab>
-                    <w xml:id="t2949" n="2950" lemma="parum1"
-                       pos="NOMcom" msd="Case=Nom|Numb=Sing" >Parum</w>
+                    <w xml:id="t2949" n="2950" lemma="parum2"
+                       pos="ADV" msd="Deg=Pos" >Parum</w>
                     <w xml:id="t2950" n="2951" lemma="sum1"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >est</w>
                     <w xml:id="t2951" n="2952" lemma="qui1"
@@ -6021,7 +6020,7 @@
                     <w xml:id="t2958" n="2959" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t2959" n="2960" lemma="ago"
-                       pos="VER" msd="Case=Abl|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act" >agente</w>
+                       pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" >agente</w>
                     <w xml:id="t2960" n="2961" lemma="terra"
                        pos="NOMcom" msd="Case=Abl|Numb=Sing" >terra</w>
                     <w xml:id="t2961" n="2962" lemma="per"
@@ -6031,7 +6030,7 @@
                     <w xml:id="t2963" n="2964" lemma="rima"
                        pos="NOMcom" msd="Case=Acc|Numb=Plur" >rimas</w>
                     <w xml:id="t2964" n="2965" lemma="siticulosus"
-                       pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos" >siticulosam</w>
+                       pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos" >siticulosam</w>
                     <w xml:id="t2965" n="2966" lemma="sustineo"
                        pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=1" >sustinemus</w>
                     <w xml:id="t2966" n="2967" lemma="aestas"
@@ -6045,11 +6044,11 @@
                     <w xml:id="t2970" n="2971" lemma="quod2"
                        pos="CONsub" msd="MORPH=empty" >quod</w>
                     <w xml:id="t2971" n="2972" lemma="inferus"
-                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Sup" >imos</w>
+                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Sup" >imos</w>
                     <w xml:id="t2972" n="2973" lemma="perfluo"
                        pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >perfluunt</w>
                     <w xml:id="t2973" n="2974" lemma="sinus"
-                       pos="NOMcom" msd="Case=Nom|Numb=Plur" >sinus</w>
+                       pos="NOMcom" msd="Case=Acc|Numb=Plur" >sinus</w>
                     <w xml:id="t2974" n="2975" lemma="imber"
                        pos="NOMcom" msd="Case=Nom|Numb=Plur" >imbres</w>
                     <w xml:id="t2975" n="2976" lemma="et2"
@@ -6063,17 +6062,17 @@
                     <w xml:id="t2979" n="2980" lemma="cado"
                        pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >cadunt</w>
                     <w xml:id="t2980" n="2981" lemma="noster"
-                       pos="PROpos" msd="Case=Acc|Numb=Plur" >nostros</w>
+                       pos="PROpos" msd="Case=Acc|Numb=Plur|Gend=Masc" >nostros</w>
                     <w xml:id="t2981" n="2982" lemma="rigeo"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >riget</w>
                     <w xml:id="t2982" n="2983" lemma="que"
                        pos="CONcoo" msd="MORPH=empty" >-que</w>
                     <w xml:id="t2983" n="2984" lemma="durus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >dura</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" >dura</w>
                     <w xml:id="t2984" n="2985" lemma="barba"
                        pos="NOMcom" msd="Case=Nom|Numb=Sing" >barba</w>
                     <w xml:id="t2985" n="2986" lemma="uincio"
-                       pos="VER" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass" >uincta</w>
+                       pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" >uincta</w>
                     <w xml:id="t2986" n="2987" lemma="crystallum"
                        pos="NOMcom" msd="Case=Abl|Numb=Sing" >crystallo</w>
                     <w xml:id="t2987" n="2988" lemma=";"
@@ -6085,7 +6084,7 @@
                     <w xml:id="t2990" n="2991" lemma="quod2"
                        pos="CONsub" msd="MORPH=empty" >quod</w>
                     <w xml:id="t2991" n="2992" lemma="ago"
-                       pos="VER" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass" >acta</w>
+                       pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" >acta</w>
                     <w xml:id="t2992" n="2993" lemma="sub"
                        pos="PRE" msd="MORPH=empty" >sub</w>
                     <w xml:id="t2993" n="2994" lemma="labor1"
@@ -6093,11 +6092,11 @@
                     <w xml:id="t2994" n="2995" lemma="lux"
                        pos="NOMcom" msd="Case=Abl|Numb=Sing" >luce</w>
                     <w xml:id="t2995" n="2996" lemma="par2"
-                       pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos" >parem</w>
+                       pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos" >parem</w>
                     <w xml:id="t2996" n="2997" lemma="dies"
-                       pos="NOMcom" msd="Case=Abl|Numb=Plur" >diebus</w>
+                       pos="NOMcom" msd="Case=Dat|Numb=Plur" >diebus</w>
                     <w xml:id="t2997" n="2998" lemma="peruigil"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >peruigil</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos" >peruigil</w>
                     <w xml:id="t2998" n="2999" lemma="traho"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1" >traho</w>
                     <w xml:id="t2999" n="3000" lemma="nox"
@@ -6119,17 +6118,17 @@
                     <w xml:id="t3007" n="3008" lemma="de"
                        pos="PRE" msd="MORPH=empty" >de</w>
                     <w xml:id="t3008" n="3009" lemma="rudis2"
-                       pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos" >rudi</w>
+                       pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Com|Deg=Pos" >rudi</w>
                     <w xml:id="t3009" n="3010" lemma="uilis"
-                       pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos" >uilem</w>
+                       pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos" >uilem</w>
                     <w xml:id="t3010" n="3011" lemma="manus1"
-                       pos="NOMcom" msd="Case=Acc|Numb=Plur" >manus</w>
+                       pos="NOMcom" msd="Case=Nom|Numb=Plur" >manus</w>
                     <w xml:id="t3011" n="3012" lemma="sine"
                        pos="PRE" msd="MORPH=empty" >sine</w>
                     <w xml:id="t3012" n="3013" lemma="ars"
                        pos="NOMcom" msd="Case=Abl|Numb=Sing" >arte</w>
                     <w xml:id="t3013" n="3014" lemma="rusticus2"
-                       pos="ADJqua" msd="Case=Nom|Numb=Plur" >rusticae</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos" >rusticae</w>
                     <w xml:id="t3014" n="3015" lemma="dolo"
                        pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" >dolauerunt</w>
                     <w xml:id="t3015" n="3016" lemma=","
@@ -6139,17 +6138,17 @@
                     <w xml:id="t3017" n="3018" lemma="que"
                        pos="CONcoo" msd="MORPH=empty" >-que</w>
                     <w xml:id="t3018" n="3019" lemma="cunctus"
-                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Pos" >cunctos</w>
+                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Deg=Pos" >cunctos</w>
                     <w xml:id="t3019" n="3020" lemma="ultimus"
-                       pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos" >ultimum</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos" >ultimum</w>
                     <w xml:id="t3020" n="3021" lemma="deus"
                        pos="NOMcom" msd="Case=Acc|Numb=Plur" >deos</w>
                     <w xml:id="t3021" n="3022" lemma="numen"
-                       pos="NOMcom" msd="Case=Acc|Numb=Sing" >numen</w>
+                       pos="NOMcom" msd="Case=Nom|Numb=Sing" >numen</w>
                     <w xml:id="t3022" n="3023" lemma="cucurbita"
                        pos="NOMcom" msd="Case=Gen|Numb=Plur" >cucurbitarum</w>
                     <w xml:id="t3023" n="3024" lemma="ligneus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >ligneus</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" >ligneus</w>
                     <w xml:id="t3024" n="3025" lemma="uoco"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1" >uocor</w>
                     <w xml:id="t3025" n="3026" lemma="custos"
@@ -6239,15 +6238,15 @@
                 </ab>
                 <ab>
                     <w xml:id="t3068" n="3069" lemma="quidam"
-                       pos="PROind" msd="Case=Nom|Numb=Sing" >Quidam</w>
+                       pos="PROind" msd="Case=Nom|Numb=Sing|Gend=Masc" >Quidam</w>
                     <w xml:id="t3069" n="3070" lemma="mollis"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Comp" >mollior</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp" >mollior</w>
                     <w xml:id="t3070" n="3071" lemma="anser"
                        pos="NOMcom" msd="Case=Gen|Numb=Sing" >anseris</w>
                     <w xml:id="t3071" n="3072" lemma="medulla"
                        pos="NOMcom" msd="Case=Abl|Numb=Sing" >medulla</w>
-                    <w xml:id="t3072" n="3073" lemma="furor1"
-                       pos="NOMcom" msd="Case=Nom|Numb=Sing" >furatum</w>
+                    <w xml:id="t3072" n="3073" lemma="furor2"
+                       pos="VER" msd="Mood=SupUm|Voice=Dep" >furatum</w>
                     <w xml:id="t3073" n="3074" lemma="uenio"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >uenit</w>
                     <w xml:id="t3074" n="3075" lemma="huc"
@@ -6259,9 +6258,9 @@
                     <w xml:id="t3077" n="3078" lemma=":"
                        pos="PUNC" msd="MORPH=empty" >:</w>
                     <w xml:id="t3078" n="3079" lemma="furo"
-                       pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3" >furetur</w>
-                    <w xml:id="t3079" n="3080" lemma="licet1"
-                       pos="VER" msd="Mood=Ind|Tense=Pres|Voice=Act|Person=3" >licet</w>
+                       pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3" >furetur</w>
+                    <w xml:id="t3079" n="3080" lemma="licet2"
+                       pos="ADV" msd="Deg=Pos" >licet</w>
                     <w xml:id="t3080" n="3081" lemma="usque"
                        pos="ADV" msd="Deg=Pos" >usque</w>
                     <w xml:id="t3081" n="3082" lemma=","
@@ -6957,7 +6956,7 @@
                     <w xml:id="t3428" n="3427" lemma="ad2"
                        pos="PRE" msd="MORPH=empty" >ad</w>
                     <w xml:id="t3429" n="3428" lemma="arrigo"
-                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" >arrectos</w>
+                       pos="VER" msd="Case=Acc|Numb=Plur|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass" >arrectos</w>
                     <w xml:id="t3430" n="3429" lemma="uerbum"
                        pos="NOMcom" msd="Case=Acc|Numb=Plur" >uerba</w>
                     <w xml:id="t3431" n="3430" lemma="loquor"
@@ -7007,7 +7006,7 @@
                     <w xml:id="t3453" n="3452" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t3454" n="3453" lemma="uos"
-                       pos="PROper" msd="Case=Acc|Numb=Plur|Gend=Masc" >uos</w>
+                       pos="PROper" msd="Case=Acc|Numb=Plur" >uos</w>
                     <w xml:id="t3455" n="3454" lemma="nunc"
                        pos="ADV" msd="Deg=Pos" >nunc</w>
                     <w xml:id="t3456" n="3455" lemma="intendo"

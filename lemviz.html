@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Priapea
+
+span { display:inline; }
+ol.li { }
+dl.data {
+display:none;
+}
+.NOM { color: rgb(43, 114, 124); }
+.ADJ { color: blue; }
+.VER { color: red; }
+.PRO { color: purple; }
+.ADV { color: darkorange; }
+.PRE { color: green; }
+.CON { color: darkpink; }
+section {
+padding: 1em;
+margin: 1em;
+background-color: white;
+border-radius: 1em;
+}
+body {                
+background-color: #f8f9fa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.addEventListener("DOMContentLoaded", function() {     
+const div = document.querySelector("#receiver div");     
+const h1 = document.querySelector("#receiver h");
+document.querySelector('body').addEventListener('click', function(event) {
+// find the closest parent of the event target that
+// matches the selector
+var closest = event.target.closest("em");
+if (closest &amp;&amp; base.contains(closest)) {
+// handle class event
+div.innerHTML("Lemma"+this.getAttribute("data-lemma")+"POS"+this.getAttribute("data-pos")+"Morphology"+this.getAttribute("data-morph")+"");
+h1.innerHTML(this.innerText);
+}
+});// End hover
+}); // End DOM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+

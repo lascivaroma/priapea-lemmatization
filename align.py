@@ -1,5 +1,36 @@
 
 Poems = {
+43: """uelle quid hanc dicas, quamuis sim ligneus, hastam,
+oscula dat medio si qua puella mihi?
+augure non opus est: 'in me' (mihi credite), dixit
+'Utetur ueris usibus hasta rudis'.""",
+44:"""Nolite omnia, quae loquor, putare
+per lusum mihi per iocumque dici.
+deprensos ego ter quaterque fures
+omnes, ne dubitetis, irrumabo.""",
+45: """Cum quendam rigidus deus uideret
+feruenti caput ustulare ferro,
+ut Maurae similis foret puellae,
+'heus' inquit 'tibi dicimus, cinaede,
+uras te licet usque torqueasque,
+num tandem prior es puella, quaeso,
+Quam sunt, mentula quos habet, capilli?'""",
+46: """O non candidior puella Mauro,
+sed morbosior omnibus cinaedis,
+Pygmaeo breuior gruem timenti,
+ursis asperior pilosiorque,
+Medis laxior Indicisue bracis,
+Manes hinc licet ut libenter ires
+nam quamuis uidear satis paratus,
+erucarum opus est decem maniplis,
+fossas inguinis ut teram dolemque
+cunni uermiculos scaturrientis.""",
+47: """Quicumque uestrum, qui uenitis ad cenam,
+libare nullos sustinet mihi uersus,
+illius uxor aut amica riualem
+lasciuiendo languidum, precor, reddat,
+et ipse longa nocte dormiat solus
+libidinosis incitatus erucis.""",
 48: """Quod partem madidam mei uidetis,
 per quam significor Priapus esse,
 non ros est, mihi crede, nec pruina,

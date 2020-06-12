@@ -1,5 +1,25 @@
 
 Poems = {
+39: """Forma Mercurius potest placere,
+forma conspiciendus est Apollo,
+formosus quoque pingitur Lyaeus,
+formosissimus omnium est Cupido.
+me pulcra fateor carere forma,
+uerum mentula luculenta nostra est:
+hanc mauult sibi quam deos priores,
+si qua est non fatui puella cunni.""",
+40 : """Nota Suburanas inter Telethusa puellas,
+quae, puto, de quaestu libera facta suo est,
+cingit inaurata penem tibi, sancte, corona:
+hunc pathicae summi numinis instar habent.""",
+41: """Quisquis uenerit huc, poeta fiat
+et uersus mihi dedicet iocosos.
+qui non fecerit, inter eruditos
+ficosissimus ambulet poetas.""",
+42: """Laetus Aristagoras natis bene uilicus uuis
+de cera ficta dat tibi poma, deus.
+at tu sacrati contentus imagine pomi
+fac ueros fructus ille, Priape, ferat.""",
 43: """uelle quid hanc dicas, quamuis sim ligneus, hastam,
 oscula dat medio si qua puella mihi?
 augure non opus est: 'in me' (mihi credite), dixit

@@ -1,5 +1,39 @@
 
 Poems = {
+34: """Cum sacrum fieret deo salaci,
+conducta est pretio puella paruo
+communis satis omnibus futura,
+quae quot nocte uiros peregit una,
+tot uerpas tibi dedicat salignas.""", # Not Finished
+36: """Notas habemus quisque corporis formas:
+Phoebus comosus, Hercules lacertosus,
+trahit figuram uirginis tener Bacchus,
+Minerua rauo lumine est, Venus paeto,
+Frontem caprinos Arcadas uides Faunos,
+habet decentes nuntius deum plantas,
+tutela Lemni dispares mouet gressus,
+intonsa semper Aesculapio barba est,
+nemo est feroci pectorosior Marte:
+quod si quis inter hos locus mihi restat,
+deus Priapo mentulatior non est.""",
+37: """Cur pictum memori sit in tabella
+membrum, quaeritis, unde procreamur?
+cum penis mihi forte laesus esset
+chirurgique manum miser timerem,
+dis me legitimis nimisque magnis,
+ut Phoebo puta filioque Phoebi,
+Curandam dare mentulam uerebar.
+huic dixi: 'fer opem, Priape, parti,
+cuius tu, pater, ipse pars uideris,
+qua salua sine sectione facta
+ponetur tibi picta, quam leuaris,
+Par uel consimilisque concolorque.'
+promisit fore mentulamque mouit
+pro nutu deus et rogata fecit.""",
+38: """Simpliciter tibi me, quodcumque est, dicere oportet,
+Natura est quoniam semper aperta mihi:
+Pedicare uolo; tu uis decerpere poma;
+Quod peto, si dederis, quod petis, accipies.""",
 39: """Forma Mercurius potest placere,
 forma conspiciendus est Apollo,
 formosus quoque pingitur Lyaeus,

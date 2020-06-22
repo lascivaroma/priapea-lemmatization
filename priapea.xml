@@ -3419,7 +3419,7 @@
                     <w xml:id="t1557" n="1558" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1558" n="1559" lemma="conduco"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass" >conducta</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" >conducta</w>
                     <w xml:id="t1559" n="1560" lemma="sum1"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >est</w>
                     <w xml:id="t1560" n="1561" lemma="pretium"
@@ -3427,15 +3427,15 @@
                     <w xml:id="t1561" n="1562" lemma="puella"
                        pos="NOMcom" msd="Case=Nom|Numb=Sing" >puella</w>
                     <w xml:id="t1562" n="1563" lemma="paruus2"
-                       pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos" >paruo</w>
-                    <w xml:id="t1563" n="1564" lemma="communis"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >communis</w>
+                       pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=MascNeut|Deg=Pos" >paruo</w>
+                    <w xml:id="t1563" n="1564" lemma="commune"
+                       pos="NOMcom" msd="Case=Gen|Numb=Sing" >communis</w>
                     <w xml:id="t1564" n="1565" lemma="satis1"
                        pos="ADJqua" msd="Case=Ind|Deg=Pos" >satis</w>
                     <w xml:id="t1565" n="1566" lemma="omnis"
                        pos="PROind" msd="Case=Dat|Numb=Plur" >omnibus</w>
                     <w xml:id="t1566" n="1567" lemma="sum1"
-                       pos="VER" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Act" >futura</w>
+                       pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Fut|Voice=Act" >futura</w>
                     <w xml:id="t1567" n="1568" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1568" n="1569" lemma="qui1"
@@ -3449,7 +3449,7 @@
                     <w xml:id="t1572" n="1573" lemma="perago"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3" >peregit</w>
                     <w xml:id="t1573" n="1574" lemma="unus"
-                       pos="ADJcar" msd="Case=Nom|Numb=Sing" >una</w>
+                       pos="ADJcar" msd="Case=Nom|Numb=Sing|Gend=Fem" >una</w>
                     <w xml:id="t1574" n="1575" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1575" n="1576" lemma="tot"
@@ -3461,7 +3461,7 @@
                     <w xml:id="t1578" n="1579" lemma="dedico1"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >dedicat</w>
                     <w xml:id="t1579" n="1580" lemma="salignus"
-                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Pos" >salignas</w>
+                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos" >salignas</w>
                     <w xml:id="t1580" n="1581" lemma="."
                        pos="PUNC" msd="MORPH=empty" >.</w>
                 </ab>
@@ -3481,11 +3481,11 @@
                     <w xml:id="t1588" n="1589" lemma="sed"
                        pos="CONcoo" msd="MORPH=empty" >sed</w>
                     <w xml:id="t1589" n="1590" lemma="idem"
-                       pos="PROdem" msd="Case=Acc|Numb=Sing" >idem</w>
+                       pos="PROdem" msd="Case=Nom|Numb=Sing|Gend=MascNeut" >idem</w>
                     <w xml:id="t1590" n="1591" lemma="si2"
                        pos="CONsub" msd="MORPH=empty" >si</w>
                     <w xml:id="t1591" n="1592" lemma="praedor"
-                       pos="VER" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Fut|Voice=Dep" >praedatus</w>
+                       pos="VER" msd="Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Fut|Voice=Dep" >praedatus</w>
                     <w xml:id="t1592" n="1593" lemma="sum1"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=2" >eris</w>
                     <w xml:id="t1593" n="1594" lemma="bis"
@@ -3501,7 +3501,7 @@
                     <w xml:id="t1598" n="1599" lemma="si2"
                        pos="CONsub" msd="MORPH=empty" >si</w>
                     <w xml:id="t1599" n="1600" lemma="tertius"
-                       pos="ADJord" msd="Case=Acc|Numb=Plur|Deg=Pos" >tertia</w>
+                       pos="ADJord" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" >tertia</w>
                     <w xml:id="t1600" n="1601" lemma="furtum"
                        pos="NOMcom" msd="Case=Acc|Numb=Plur" >furta</w>
                     <w xml:id="t1601" n="1602" lemma="molior"
@@ -3521,7 +3521,7 @@
                     <w xml:id="t1608" n="1609" lemma="et2"
                        pos="CONcoo" msd="MORPH=empty" >et</w>
                     <w xml:id="t1609" n="1610" lemma="ille"
-                       pos="PROdem" msd="Case=Acc|Numb=Sing" >illam</w>
+                       pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem" >illam</w>
                     <w xml:id="t1610" n="1611" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1611" n="1612" lemma="paedico2"

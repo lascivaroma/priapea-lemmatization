@@ -4,7 +4,12 @@ Poems = {
 conducta est pretio puella paruo
 communis satis omnibus futura,
 quae quot nocte uiros peregit una,
-tot uerpas tibi dedicat salignas.""", # Not Finished
+tot uerpas tibi dedicat salignas.""", 
+35: """Pedicabere, fur, semel; sed idem
+si praedatus eris bis, irrumabo.
+et si tertia furta molieris,
+ut poenam patiare et hanc et illam,
+pedicaberis irrumaberisque.""",
 36: """Notas habemus quisque corporis formas:
 Phoebus comosus, Hercules lacertosus,
 trahit figuram uirginis tener Bacchus,

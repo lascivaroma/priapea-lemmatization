@@ -1,5 +1,25 @@
 
 Poems = {
+32: """Uuis aridior puella passis,
+buxo pallidior nouaque cera,
+collatas sibi quae suisque membris
+formicas facit altiles uideri,
+cuius uiscera non aperta Tuscus
+per pellem poterit uidere aruspex,
+quae suco caret estque pura pumex,
+(Nemo uiderit hanc ut expuentem,
+quam pro sanguine puluerem scobemque
+in uenis medici putant habere),
+ad me nocte solet uenire et affert
+pallorem maciemque larualem.
+ductor ferreus insulariusque
+lanternae uideor fricare cornu.""",
+33: """Naidas antiqui Dryadasque habuere Priapi,
+et quo tenta dei uena subiret, erat.
+nunc adeo nihil est, adeo mea plena libido est,
+ut Nymphas omnis interiisse putem.
+turpe quidem factu, sed ne tentigine rumpar,
+falce mihi posita, fiet amica manus.""",
 34: """Cum sacrum fieret deo salaci,
 conducta est pretio puella paruo
 communis satis omnibus futura,

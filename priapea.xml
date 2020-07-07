@@ -295,6 +295,15 @@
                 <change who="Thibault. Clérice" corresp="#t1765"
                         type="Edition" when-custom="2020-06-19 09:02:21"><del>parva</del> <add>par</add></change>
             
+                <change who="Thibault. Clérice" corresp="#t1540"
+                        type="Edition" when-custom="2020-07-06 12:31:19"><del>tentigi</del> <add>tentigine</add></change>
+            
+                <change who="Thibault. Clérice" corresp="#t1541"
+                        type="Deletion" when-custom="2020-07-06 12:31:34"><del>-ne</del> </change>
+            
+                <change who="Thibault. Clérice" corresp="#t2582871"
+                        type="Addition" when-custom="2020-07-07 12:12:59"><add>)</add></change>
+            
         </revisionDesc>
     </teiHeader>
     <text xml:lang="fr">
@@ -2612,7 +2621,7 @@
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1154" n="1155" lemma="intra2"
                        pos="PRE" msd="MORPH=empty" >intra</w>
-                    <w xml:id="t1155" n="1156" lemma="uiscus?"
+                    <w xml:id="t1155" n="1156" lemma="uiscus2"
                        pos="NOMcom" msd="Case=Acc|Numb=Plur" >uiscera</w>
                     <w xml:id="t1156" n="1157" lemma="fur"
                        pos="NOMcom" msd="Case=Gen|Numb=Sing" >furis</w>
@@ -3143,33 +3152,33 @@
                     <w xml:id="t1419" n="1420" lemma="uuis"
                        pos="NOMcom" msd="Case=Abl|Numb=Plur" >Uuis</w>
                     <w xml:id="t1420" n="1421" lemma="aridus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Comp" >aridior</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp" >aridior</w>
                     <w xml:id="t1421" n="1422" lemma="puella"
                        pos="NOMcom" msd="Case=Nom|Numb=Sing" >puella</w>
-                    <w xml:id="t1422" n="1423" lemma="pando2"
-                       pos="VER" msd="Case=Abl|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass" >passis</w>
+                    <w xml:id="t1422" n="1423" lemma="passus2"
+                       pos="ADJqua" msd="Case=Abl|Numb=Plur|Gend=Com" >passis</w>
                     <w xml:id="t1423" n="1424" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1424" n="1425" lemma="buxum"
                        pos="NOMcom" msd="Case=Abl|Numb=Sing" >buxo</w>
                     <w xml:id="t1425" n="1426" lemma="pallidus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Comp" >pallidior</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=MascFem|Deg=Comp" >pallidior</w>
                     <w xml:id="t1426" n="1427" lemma="nouus"
-                       pos="ADJqua" msd="Case=Abl|Numb=Sing|Deg=Pos" >noua</w>
+                       pos="ADJqua" msd="Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos" >noua</w>
                     <w xml:id="t1427" n="1428" lemma="que"
                        pos="CONcoo" msd="MORPH=empty" >-que</w>
                     <w xml:id="t1428" n="1429" lemma="cera"
-                       pos="NOMcom" msd="Case=Nom|Numb=Sing" >cera</w>
+                       pos="NOMcom" msd="Case=Abl|Numb=Sing" >cera</w>
                     <w xml:id="t1429" n="1430" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1430" n="1431" lemma="confero"
-                       pos="VER" msd="Case=Acc|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass" >collatas</w>
+                       pos="VER" msd="Case=Acc|Numb=Plur|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" >collatas</w>
                     <w xml:id="t1431" n="1432" lemma="sui1"
                        pos="PROref" msd="Case=Dat|Numb=Sing" >sibi</w>
                     <w xml:id="t1432" n="1433" lemma="qui1"
                        pos="PROrel" msd="Case=Nom|Numb=Sing|Gend=Fem" >quae</w>
                     <w xml:id="t1433" n="1434" lemma="suus"
-                       pos="PROpos.ref" msd="Case=Dat|Numb=Plur" >suis</w>
+                       pos="PROpos.ref" msd="Case=Dat|Numb=Plur|Gend=Com" >suis</w>
                     <w xml:id="t1434" n="1435" lemma="que"
                        pos="CONcoo" msd="MORPH=empty" >-que</w>
                     <w xml:id="t1435" n="1436" lemma="membrum"
@@ -3179,19 +3188,19 @@
                     <w xml:id="t1437" n="1438" lemma="facio"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >facit</w>
                     <w xml:id="t1438" n="1439" lemma="altilis2"
-                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Pos" >altiles</w>
+                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos" >altiles</w>
                     <w xml:id="t1439" n="1440" lemma="uideo"
                        pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Pass" >uideri</w>
                     <w xml:id="t1440" n="1441" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1441" n="1442" lemma="qui1"
                        pos="PROrel" msd="Case=Gen|Numb=Sing" >cuius</w>
-                    <w xml:id="t1442" n="1443" lemma="uiscus?"
+                    <w xml:id="t1442" n="1443" lemma="uiscus2"
                        pos="NOMcom" msd="Case=Acc|Numb=Plur" >uiscera</w>
                     <w xml:id="t1443" n="1444" lemma="non"
                        pos="ADVneg" msd="MORPH=empty" >non</w>
                     <w xml:id="t1444" n="1445" lemma="apertus"
-                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Deg=Pos" >aperta</w>
+                       pos="ADJqua" msd="Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos" >aperta</w>
                     <w xml:id="t1445" n="1446" lemma="tuscus"
                        pos="NOMcom" msd="Case=Nom|Numb=Sing" >Tuscus</w>
                     <w xml:id="t1446" n="1447" lemma="per"
@@ -3217,7 +3226,7 @@
                     <w xml:id="t1456" n="1457" lemma="que"
                        pos="CONcoo" msd="MORPH=empty" >-que</w>
                     <w xml:id="t1457" n="1458" lemma="purus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >pura</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" >pura</w>
                     <w xml:id="t1458" n="1459" lemma="pumex"
                        pos="NOMcom" msd="Case=Nom|Numb=Sing" >pumex</w>
                     <w xml:id="t1459" n="1460" lemma=","
@@ -3232,8 +3241,8 @@
                        pos="PROdem" msd="Case=Acc|Numb=Sing|Gend=Fem" >hanc</w>
                     <w xml:id="t1464" n="1465" lemma="ut4"
                        pos="CONsub" msd="MORPH=empty" >ut</w>
-                    <w xml:id="t1465" n="1466" lemma="expuo"
-                       pos="VER" msd="Case=Acc|Numb=Sing|Mood=Par|Tense=Pres|Voice=Act" >expuentem</w>
+                    <w xml:id="t1465" n="1466" lemma="exspuo"
+                       pos="VER" msd="Case=Acc|Numb=Sing|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Act" >expuentem</w>
                     <w xml:id="t1466" n="1467" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
                     <w xml:id="t1467" n="1468" lemma="qui1"
@@ -3258,134 +3267,134 @@
                        pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >putant</w>
                     <w xml:id="t1477" n="1478" lemma="habeo"
                        pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" >habere</w>
-                    <w xml:id="t1478" n="1479" lemma=","
+                    <w xml:id="t2582871" n="1479" lemma=")"
+                       pos="PUNC" msd="MORPH=empty" >)</w>
+                    <w xml:id="t1478" n="1480" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
-                    <w xml:id="t1479" n="1480" lemma="ad2"
+                    <w xml:id="t1479" n="1481" lemma="ad2"
                        pos="PRE" msd="MORPH=empty" >ad</w>
-                    <w xml:id="t1480" n="1481" lemma="ego"
+                    <w xml:id="t1480" n="1482" lemma="ego"
                        pos="PROper" msd="Case=Acc|Numb=Sing" >me</w>
-                    <w xml:id="t1481" n="1482" lemma="nocte"
+                    <w xml:id="t1481" n="1483" lemma="nocte"
                        pos="ADV" msd="Numb=Sing|Deg=Pos" >nocte</w>
-                    <w xml:id="t1482" n="1483" lemma="soleo"
+                    <w xml:id="t1482" n="1484" lemma="soleo"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=SemDep|Person=3" >solet</w>
-                    <w xml:id="t1483" n="1484" lemma="uenio"
+                    <w xml:id="t1483" n="1485" lemma="uenio"
                        pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" >uenire</w>
-                    <w xml:id="t1484" n="1485" lemma="et2"
+                    <w xml:id="t1484" n="1486" lemma="et2"
                        pos="CONcoo" msd="MORPH=empty" >et</w>
-                    <w xml:id="t1485" n="1486" lemma="affero"
+                    <w xml:id="t1485" n="1487" lemma="affero"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >affert</w>
-                    <w xml:id="t1486" n="1487" lemma="pallor"
+                    <w xml:id="t1486" n="1488" lemma="pallor"
                        pos="NOMcom" msd="Case=Acc|Numb=Sing" >pallorem</w>
-                    <w xml:id="t1487" n="1488" lemma="macies"
+                    <w xml:id="t1487" n="1489" lemma="macies"
                        pos="NOMcom" msd="Case=Acc|Numb=Sing" >maciem</w>
-                    <w xml:id="t1488" n="1489" lemma="que"
+                    <w xml:id="t1488" n="1490" lemma="que"
                        pos="CONcoo" msd="MORPH=empty" >-que</w>
-                    <w xml:id="t1489" n="1490" lemma="larualis"
-                       pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos" >larualem</w>
-                    <w xml:id="t1490" n="1491" lemma="."
+                    <w xml:id="t1489" n="1491" lemma="larualis"
+                       pos="ADJqua" msd="Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos" >larualem</w>
+                    <w xml:id="t1490" n="1492" lemma="."
                        pos="PUNC" msd="MORPH=empty" >.</w>
-                    <w xml:id="t1491" n="1492" lemma="ductor"
+                    <w xml:id="t1491" n="1493" lemma="ductor"
                        pos="NOMcom" msd="Case=Nom|Numb=Sing" >ductor</w>
-                    <w xml:id="t1492" n="1493" lemma="ferreus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >ferreus</w>
-                    <w xml:id="t1493" n="1494" lemma="insularis"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >insularius</w>
-                    <w xml:id="t1494" n="1495" lemma="que"
+                    <w xml:id="t1492" n="1494" lemma="ferreus"
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos" >ferreus</w>
+                    <w xml:id="t1493" n="1495" lemma="insularius"
+                       pos="NOMcom" msd="Case=Nom|Numb=Sing" >insularius</w>
+                    <w xml:id="t1494" n="1496" lemma="que"
                        pos="CONcoo" msd="MORPH=empty" >-que</w>
-                    <w xml:id="t1495" n="1496" lemma="laterna"
+                    <w xml:id="t1495" n="1497" lemma="laterna"
                        pos="NOMcom" msd="Case=Gen|Numb=Sing" >lanternae</w>
-                    <w xml:id="t1496" n="1497" lemma="uideo"
+                    <w xml:id="t1496" n="1498" lemma="uideo"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=1" >uideor</w>
-                    <w xml:id="t1497" n="1498" lemma="frico"
+                    <w xml:id="t1497" n="1499" lemma="frico"
                        pos="VER" msd="Mood=Inf|Tense=Pres|Voice=Act" >fricare</w>
-                    <w xml:id="t1498" n="1499" lemma="cornu"
+                    <w xml:id="t1498" n="1500" lemma="cornu"
                        pos="NOMcom" msd="Case=Abl|Numb=Sing" >cornu</w>
-                    <w xml:id="t1499" n="1500" lemma="."
+                    <w xml:id="t1499" n="1501" lemma="."
                        pos="PUNC" msd="MORPH=empty" >.</w>
                 </ab>
                 <ab>
-                    <w xml:id="t1501" n="1502" lemma="nais"
-                       pos="NOMcom" msd="Case=Acc|Numb=Plur" >Naidas</w>
-                    <w xml:id="t1502" n="1503" lemma="antiqui"
+                    <w xml:id="t1501" n="1503" lemma="Nais"
+                       pos="NOMpro" msd="Case=Acc|Numb=Plur" >Naidas</w>
+                    <w xml:id="t1502" n="1504" lemma="antiqui"
                        pos="ADJqua" msd="Case=Nom|Numb=Plur|Deg=Pos" >antiqui</w>
-                    <w xml:id="t1503" n="1504" lemma="Dryas"
+                    <w xml:id="t1503" n="1505" lemma="Dryas"
                        pos="NOMpro" msd="Case=Acc|Numb=Plur" >Dryadas</w>
-                    <w xml:id="t1504" n="1505" lemma="que"
+                    <w xml:id="t1504" n="1506" lemma="que"
                        pos="CONcoo" msd="MORPH=empty" >-que</w>
-                    <w xml:id="t1505" n="1506" lemma="habeo"
+                    <w xml:id="t1505" n="1507" lemma="habeo"
                        pos="VER" msd="Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3" >habuere</w>
-                    <w xml:id="t1506" n="1507" lemma="Priapus"
-                       pos="NOMpro" msd="Case=Gen|Numb=Sing" >Priapi</w>
-                    <w xml:id="t1507" n="1508" lemma=","
+                    <w xml:id="t1506" n="1508" lemma="Priapus"
+                       pos="NOMpro" msd="Case=Nom|Numb=Plur" >Priapi</w>
+                    <w xml:id="t1507" n="1509" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
-                    <w xml:id="t1508" n="1509" lemma="et2"
+                    <w xml:id="t1508" n="1510" lemma="et2"
                        pos="CONcoo" msd="MORPH=empty" >et</w>
-                    <w xml:id="t1509" n="1510" lemma="quo?"
-                       pos="ADVrel" msd="MORPH=empty" >quo</w>
-                    <w xml:id="t1510" n="1511" lemma="tendo"
+                    <w xml:id="t1509" n="1511" lemma="qui1"
+                       pos="PROrel" msd="Case=Abl|Numb=Sing|Gend=Masc" >quo</w>
+                    <w xml:id="t1510" n="1512" lemma="tendo"
                        pos="VER" msd="Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" >tenta</w>
-                    <w xml:id="t1511" n="1512" lemma="deus"
+                    <w xml:id="t1511" n="1513" lemma="deus"
                        pos="NOMcom" msd="Case=Gen|Numb=Sing" >dei</w>
-                    <w xml:id="t1512" n="1513" lemma="uena"
+                    <w xml:id="t1512" n="1514" lemma="uena"
                        pos="NOMcom" msd="Case=Nom|Numb=Sing" >uena</w>
-                    <w xml:id="t1513" n="1514" lemma="subeo1"
+                    <w xml:id="t1513" n="1515" lemma="subeo1"
                        pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3" >subiret</w>
-                    <w xml:id="t1514" n="1515" lemma=","
+                    <w xml:id="t1514" n="1516" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
-                    <w xml:id="t1515" n="1516" lemma="sum1"
+                    <w xml:id="t1515" n="1517" lemma="sum1"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3" >erat</w>
-                    <w xml:id="t1516" n="1517" lemma="."
+                    <w xml:id="t1516" n="1518" lemma="."
                        pos="PUNC" msd="MORPH=empty" >.</w>
-                    <w xml:id="t1517" n="1518" lemma="nunc"
+                    <w xml:id="t1517" n="1519" lemma="nunc"
                        pos="ADV" msd="Deg=Pos" >nunc</w>
-                    <w xml:id="t1518" n="1519" lemma="adeo2"
+                    <w xml:id="t1518" n="1520" lemma="adeo2"
                        pos="ADV" msd="Deg=Pos" >adeo</w>
-                    <w xml:id="t1519" n="1520" lemma="nihil"
+                    <w xml:id="t1519" n="1521" lemma="nihil"
                        pos="PROind" msd="Case=Ind" >nihil</w>
-                    <w xml:id="t1520" n="1521" lemma="sum1"
+                    <w xml:id="t1520" n="1522" lemma="sum1"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >est</w>
-                    <w xml:id="t1521" n="1522" lemma=","
+                    <w xml:id="t1521" n="1523" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
-                    <w xml:id="t1522" n="1523" lemma="adeo2"
+                    <w xml:id="t1522" n="1524" lemma="adeo2"
                        pos="ADV" msd="Deg=Pos" >adeo</w>
-                    <w xml:id="t1523" n="1524" lemma="meus"
-                       pos="PROpos" msd="Case=Nom|Numb=Sing" >mea</w>
-                    <w xml:id="t1524" n="1525" lemma="plenus"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >plena</w>
-                    <w xml:id="t1525" n="1526" lemma="libido"
+                    <w xml:id="t1523" n="1525" lemma="meus"
+                       pos="PROpos" msd="Case=Nom|Numb=Sing|Gend=Fem" >mea</w>
+                    <w xml:id="t1524" n="1526" lemma="plenus"
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" >plena</w>
+                    <w xml:id="t1525" n="1527" lemma="libido"
                        pos="NOMcom" msd="Case=Nom|Numb=Sing" >libido</w>
-                    <w xml:id="t1526" n="1527" lemma="sum1"
+                    <w xml:id="t1526" n="1528" lemma="sum1"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3" >est</w>
-                    <w xml:id="t1527" n="1528" lemma=","
+                    <w xml:id="t1527" n="1529" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
-                    <w xml:id="t1528" n="1529" lemma="ut4"
+                    <w xml:id="t1528" n="1530" lemma="ut4"
                        pos="CONsub" msd="MORPH=empty" >ut</w>
-                    <w xml:id="t1529" n="1530" lemma="nympha"
+                    <w xml:id="t1529" n="1531" lemma="nympha"
                        pos="NOMcom" msd="Case=Acc|Numb=Plur" >Nymphas</w>
-                    <w xml:id="t1530" n="1531" lemma="omnis"
-                       pos="PROind" msd="Case=Acc|Numb=Plur" >omnis</w>
-                    <w xml:id="t1531" n="1532" lemma="intereo1"
+                    <w xml:id="t1530" n="1532" lemma="omnis"
+                       pos="PROind" msd="Case=Acc|Numb=Plur|Gend=MascFem" >omnis</w>
+                    <w xml:id="t1531" n="1533" lemma="intereo1"
                        pos="VER" msd="Mood=Inf|Tense=Perf|Voice=Act" >interiisse</w>
-                    <w xml:id="t1532" n="1533" lemma="puto"
+                    <w xml:id="t1532" n="1534" lemma="puto"
                        pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=1" >putem</w>
-                    <w xml:id="t1533" n="1534" lemma="."
+                    <w xml:id="t1533" n="1535" lemma="."
                        pos="PUNC" msd="MORPH=empty" >.</w>
-                    <w xml:id="t1534" n="1535" lemma="turpis"
+                    <w xml:id="t1534" n="1536" lemma="turpis"
                        pos="ADJqua" msd="Case=Acc|Numb=Sing|Deg=Pos" >turpe</w>
-                    <w xml:id="t1535" n="1536" lemma="quidem"
+                    <w xml:id="t1535" n="1537" lemma="quidem"
                        pos="ADV" msd="Deg=Pos" >quidem</w>
-                    <w xml:id="t1536" n="1537" lemma="facio"
-                       pos="VER" msd="Mood=SupUm|Voice=Act" >factu</w>
-                    <w xml:id="t1537" n="1538" lemma=","
+                    <w xml:id="t1536" n="1538" lemma="facio"
+                       pos="VER" msd="Mood=SupU|Voice=Act" >factu</w>
+                    <w xml:id="t1537" n="1539" lemma=","
                        pos="PUNC" msd="MORPH=empty" >,</w>
-                    <w xml:id="t1538" n="1539" lemma="sed"
+                    <w xml:id="t1538" n="1540" lemma="sed"
                        pos="CONcoo" msd="MORPH=empty" >sed</w>
-                    <w xml:id="t1539" n="1540" lemma="ne4"
+                    <w xml:id="t1539" n="1541" lemma="ne4"
                        pos="CONsub" msd="MORPH=empty" >ne</w>
-                    <w xml:id="t1540" n="1541" lemma="tentigo"
-                       pos="VER" msd="Numb=Sing|Voice=Pass" >tentigi</w>
-                    <w xml:id="t1541" n="1542" lemma="ne2"
-                       pos="CONcoo" msd="MORPH=empty" >-ne</w>
+                    <w xml:id="t1540" n="1542" lemma="tentigo"
+                       pos="NOMcom" msd="Case=Abl|Numb=Sing" >tentigine</w>
                     <w xml:id="t1542" n="1543" lemma="rumpo"
                        pos="VER" msd="Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=1" >rumpar</w>
                     <w xml:id="t1543" n="1544" lemma=","
@@ -3395,11 +3404,11 @@
                     <w xml:id="t1545" n="1546" lemma="ego"
                        pos="PROper" msd="Case=Dat|Numb=Sing" >mihi</w>
                     <w xml:id="t1546" n="1547" lemma="pono"
-                       pos="VER" msd="Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass" >posita</w>
+                       pos="VER" msd="Case=Abl|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass" >posita</w>
                     <w xml:id="t1547" n="1548" lemma="fio"
                        pos="VER" msd="Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3" >fiet</w>
                     <w xml:id="t1548" n="1549" lemma="amicus2"
-                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Deg=Pos" >amica</w>
+                       pos="ADJqua" msd="Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos" >amica</w>
                     <w xml:id="t1549" n="1550" lemma="manus1"
                        pos="NOMcom" msd="Case=Nom|Numb=Sing" >manus</w>
                     <w xml:id="t1550" n="1551" lemma="."

@@ -1,5 +1,41 @@
 
 Poems = {
+26:"""Porro — nam quis erit modus? — Quirites,
+aut praecidite seminale membrum,
+quod totis mihi noctibus fatigant
+uicinae sine fine prurientes
+uernis passeribus salaciores,
+aut rumpar, nec habebitis Priapum.
+ipsi cernitis, ecfututus ut sim
+confectusque macerque pallidusque,
+qui quondam ruber et calens solebam
+fures caedere quamlibet ualentes.
+defecit latus et periculosam
+cum tussi miser expuo saliuam.""",
+27:"""Deliciae populi, magno notissima circo
+Quintia, uibratas docta mouere nates,
+cymbala cum crotalis, pruriginis arma, Priapo
+ponit et adducta tympana pulsa manu.
+pro quibus, ut semper placeat spectantibus, orat,
+tentaque ad exemplum sit sua turba dei.""",
+28:"""Tu, qui non bene cogitas et aegre
+carpendo tibi temperas ab horto,
+pedicabere fascino pedali.
+quod si tam grauis et molesta poena
+non profecerit, altiora tangam.""",
+29:"""Obscenis, peream, Priape, si non
+uti me pudet inprobisque uerbis.
+sed cum tu posito deus pudore
+ostendas mihi coleos patentes,
+cum cunno mihi mentula est uocanda.""",
+30:"""'Falce minax et parte tui maiore, Priape,
+ad fontem, quaeso, dic mihi qua sit iter.'
+uade per has uites, quarum si carpseris uuam,
+cur aliter sumas, hospes, habebis aquam.""",
+31:"""Donec proterua nil mei manu carpes,
+licebit ipsa sis pudicior Vesta.
+sin, haec mei te uentris arma laxabunt,
+exire ut ipse de tuo queas culo.""",
 32: """Uuis aridior puella passis,
 buxo pallidior nouaque cera,
 collatas sibi quae suisque membris

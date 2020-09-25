@@ -1,5 +1,120 @@
 
 Poems = {
+#7:"""Cum loquor, una mihi peccatur littera; nam te
+#semper blaesaque lingua mihi est.""",
+8:"""Matronae procul hinc abite castae:
+turpe est uos legere impudica uerba. —
+non assis faciunt euntque recta:
+nimirum sapiunt uidentque magnam
+matronae quoque mentulam libenter.""",
+9:"""Cur obscena mihi pars sit sine ueste, requiris:
+quaere, tegat nullus cur sua tela deus.
+fulmen habet mundi dominus, tenet illud aperte;
+nec datur aequoreo fuscina tecta deo.
+nec Mauors illum, per quem ualet, occulit ensem,
+nec latet in tepido Palladis hasta sinu.
+num pudet auratas Phoebum portare sagittas?
+clamne solet pharetram ferre Diana suam?
+num tegit Alcides nodosae robora clauae?
+sub tunica uirgam num deus ales habet?
+quis Bacchum gracili uestem praetendere thyrso,
+quis te celata cum face uidit, Amor?
+nec mihi sit crimen, quod mentula semper aperta est:
+hoc mihi si telum desit, inermis ero.""",
+10:"""Insulsissima quid puella rides?
+non me Praxiteles Scopasue fecit,
+non sum Phidiaca manu politus;
+sed lignum rude uillicus dolauit,
+et dixit mihi: 'tu Priapus esto'.
+spectas me tamen et subinde rides:
+nimirum tibi salsa res uidetur
+adstans inguinibus columna nostris.""",
+11:"""Ne prendare, caue. prenso nec fuste nocebo,
+saeua nec incurua uulnera falce dabo:
+traiectus conto sic extendere pedali,
+ut culum rugam non habuisse putes.""",
+12:"""Quaedam iunior Hectoris parente,
+Cumaeae soror, ut puto, Sibyllae,
+aequalis tibi, quam domum reuertens
+Theseus repperit in rogo iacentem,
+infirmo solet huc gradu uenire
+rugosasque manus ad astra tollens,
+ne desit sibi, mentulam rogare.
+hesterna quoque luce dum precatur,
+dentem de tribus excreauit unum.
+'tolle' inquam 'procul ac iube latere
+scissa sub tunica stolaque russa,
+ut semper solet, et timere lucem,
+qui tanto patet indecens hiatu,
+barbato macer eminente naso,
+ut credas Epicuron oscitari'.""",
+13:"""Percidere puer, moneo: futuere puella:
+barbatum furem tertia poena manet.""",
+14:"""Huc huc, quisquis es, in dei salacis
+deuerti graue ne puta sacellum.
+et si nocte fuit puella tecum,
+hac re quod metuas adire, non est.
+istud caelitibus datur seueris:
+nos uappae sumus et pusilla culti
+ruris numina, nos pudore pulso
+stamus sub Ioue coleis apertis.
+ergo, quilibet, huc licebit intret
+nigra fornicis oblitus fauilla.""",
+15:"""Commisso mihi non satis modestas
+quicumque attulerit manus agello,
+is me sentiet esse non spadonem.
+dicat forsitan haec sibi ipse: 'nemo
+hic inter frutices loco remoto
+percisum sciet esse me', sed errat:
+magnis testibus ista res agetur.""",
+16:"""Qualibus Hippomenes rapuit Schoeneida pomis,
+qualibus Hesperidum nobilis hortus erat,
+qualia credibile est spatiantem rure paterno
+Nausicaam pleno saepe tulisse sinu,
+quale fuit malum quod littera pinxit Aconti,
+qua cupido lecta pacta puella uiro est:
+Talia cuncta pius dominus florentis agelli
+imposuit mensae, nude Priape, tuae.""",
+17:"""Quid mecum tibi, circitor moleste?
+ad me quid prohibes uenire furem?
+accedat, sine: laxior redibit.""",
+18:"""Commoditas haec est in nostro maxima pene,
+laxa quod esse mihi femina nulla potest.""",
+19:"""Hic quando Telethusa circulatrix,
+quae clunem tunica tegente nulla
+Exstis satius altiusque motat,
+crisabit tibi fluctuante lumbo:
+haec sic non modo te, Priape, possit,
+priuignum quoque sed mouere Phaedrae.""",
+20:"""Fulmina sub Ioue sunt, Neptuni fuscina telum,
+ense potens Mars est, hasta, Minerua, tua est,
+suttilibus Liber committit praelia thyrsis,
+fertur Apollinea missa sagitta manu,
+Herculis armata est inuicta dextera claua:
+at me terribilem mentula tenta facit.""",
+21:"""Copia me perdit: tu suffragare rogatus
+indicio nec me prode, Priape, tuo,
+quaeque tibi posui tamquam uernacula poma,
+de sacra nulli dixeris esse uia.""",
+22:"""Femina si furtum faciet mihi uirue puerue,
+haec cunnum, caput hic praebeat, ille nates.""",
+23:"""Quicumque hic uiolam rosamue carpet
+furtiuumue olus aut inempta poma,
+defectus pueroque feminaque
+hac tentigine, quam uidetis in me,
+rumpatur, precor, usque mentulaque
+nequicquam sibi pulset umbilicum.""",
+24:"""Hic me custodem fecundi uillicus horti
+mandati curam iussit habere loci.
+fur habeas poenam, licet indignere 'feram'que
+'propter olus' dicas 'hoc ego?' 'propter olus'.""",
+25:"""Hoc sceptrum, quod ab arbore est recisum,
+nulla iam poterit uirere fronde,
+sceptrum, quod pathicae petunt 
+puellae, quod quidam cupiunt tenere reges,
+cui dant oscula nobiles cinaedi,
+intra uiscera furis ibit usque 
+ad pubem capulumque coleorum.""",
 26:"""Porro — nam quis erit modus? — Quirites,
 aut praecidite seminale membrum,
 quod totis mihi noctibus fatigant

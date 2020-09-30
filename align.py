@@ -1,7 +1,32 @@
 
 Poems = {
-#7:"""Cum loquor, una mihi peccatur littera; nam te
-#semper blaesaque lingua mihi est.""",
+#2:"""""",
+3:"""Obscure poteram tibi dicere: 'da mihi, quod tu
+des licet assidue, nil tamen inde perit.
+da mihi, quod cupies frustra dare forsitan olim,
+cum tenet obsessas inuida barba genas,
+quodque Ioui dederat, qui raptus ab alite sacra
+miscet amatori pocula grata suo,
+quod uirgo prima cupido dat nocte marito,
+dum timet alterius uulnus inepta loci.'
+simplicius multo est 'da pedicare' Latine
+dicere: quid faciam? crassa Minerua mea est.""",
+4:"""Obscenas rigido deo tabellas,
+ducens ex Elephantidos libellis,
+dat donum Lalage rogatque, temptes,
+si pictas opus edat ad figuras.""",
+5:"""Quam puero legem fertur dixisse Priapus,
+uersibus haec infra scripta duobus erit:
+'quod meus hortus habet, sumas impune licebit,
+si dederis nobis, quod tuus hortus habet'.""",
+6:"""Qui sum ligneus, ut uides, Priapus
+et falx lignea ligneusque penis,
+prendam te tamen et tenebo prensum
+totamque hanc sine fraude, quantacumque est,
+tormento citharaque tensiorem
+ad costam tibi septimam recondam.""",
+7:"""Cum loquor, una mihi peccatur littera; nam te
+semper blaesaque lingua mihi est.""",
 8:"""Matronae procul hinc abite castae:
 turpe est uos legere impudica uerba. —
 non assis faciunt euntque recta:

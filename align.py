@@ -1,6 +1,24 @@
 
 Poems = {
-#2:"""""",
+1:"""Carminis incompti lusus lecture procaces,
+conueniens Latio pone supercilium.
+non soror hoc habitat Phoebi, non uesta sacello,
+nec quae de patrio uertice nata dea est,
+sed ruber hortorum custos, membrosior aequo,
+qui tectum nullis uestibus inguen habet.
+aut igitur tunicam parti praetende tegendae,
+aut quibus hanc oculis aspicis, ista lege.""",
+2:"""Ludens haec ego teste te, Priape,
+horto carmina digna, non libello,
+scripsi non nimium laboriose.
+nec Musas tamen, ut solent poetae,
+ad non uirgineum locum uocaui.
+nam sensus mihi corque defuisset
+castas, Pierium chorum, sorores
+auso ducere mentulam ad Priapi.
+ergo quidquid id est, quod otiosus
+templi parietibus tui notaui,
+in partem accipias bonam, rogamus.""",
 3:"""Obscure poteram tibi dicere: 'da mihi, quod tu
 des licet assidue, nil tamen inde perit.
 da mihi, quod cupies frustra dare forsitan olim,

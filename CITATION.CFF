@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
-- family-names: "Clérice"
+  - family-names: "Clérice"
   given-names: "Thibault"
   orcid: "https://orcid.org/0000-0003-1852-9204
 title: "Lemmatisation et analyse morpho-syntaxique des Priapées"
